@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="search">Chercher</string>
+    <string name="home">Accueil</string>
+    <string name="no_user">Aucun utilisateur</string>
+    <string name="followers">SUIVEUSES</string>
+    <string name="following">SUIVANTE</string>
+    <string name="change_language_settings">langue</string>
+    <string name="favorite">Favorite</string>
+    <string name="alarm">alarm</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="notifikasi">Can you go back to app ?</string>
+</resources>

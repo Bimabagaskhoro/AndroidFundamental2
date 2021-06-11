@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="search">Pencarian</string>
+    <string name="home">Rumah</string>
+    <string name="no_user">tidak ada pengguna</string>
+    <string name="followers">PENGIKUT</string>
+    <string name="following">DIIKUTI</string>
+    <string name="change_language_settings">bahasa</string>
+    <string name="favorite">Kesukaan</string>
+    <string name="alarm">alarm</string>
+    <string name="set_reminder">Set Pengingat</string>
+    <string name="notifikasi">akankah kamu kembali ke app ?</string>
+</resources>

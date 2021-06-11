@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:menuCategory="container">
+        <item
+            android:id="@+id/favorite_menu"
+            android:title="@string/favorite"
+            android:icon="@drawable/ic_heart_white"
+            app:showAsAction="ifRoom"/>
+    </group>
+    <item
+        android:id="@+id/action_change_settings"
+        android:title="@string/change_language_settings"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/alarm"
+        android:title="@string/alarm"
+        app:showAsAction="never"/>
+
+</menu>
